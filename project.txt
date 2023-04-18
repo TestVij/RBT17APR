@@ -1,6 +1,12 @@
 Welcome to git session
+<<<<<<< HEAD
 Fixed bug 123 as it is
 
 bug fixed 456
 
 new person added code to check 3 way merge
+=======
+Fixed bug 123
+
+bug fixed 456
+>>>>>>> bug456
