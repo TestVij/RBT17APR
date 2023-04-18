@@ -1,2 +1,4 @@
 Welcome to git session
 Fixed bug 123
+
+bug fixed 456
