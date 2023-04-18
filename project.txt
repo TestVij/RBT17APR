@@ -1,2 +1,6 @@
 Welcome to git session
-Fixed bug 123
+Fixed bug 123 as it is
+
+bug fixed 456
+
+new person added code to check 3 way merge
